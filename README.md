@@ -1,7 +1,7 @@
 # stepik-id-printer (h1)
 
 
-Это проект для вывода моего персональногио идентивикатора на *образовательной платформе [`stepik.org`](https://stepik.org/)*
+Это проект для вывода моего имени и фамилий на латинском формате 
 
 <br>
 
@@ -11,7 +11,7 @@ ___
 
 Данный проект имеет следующий функционал.
 
-- Выводит в **stdout** уникальный идентификатор.  
+- Выводит в **stdout** имю и фамилию.  
 - Без зависимостей  
 - Простой  
 <br>
@@ -20,7 +20,7 @@ ___
 
  ___
 
- ```bash ./script.sh```
+ ```bash ./username.sh```
 
 <br>
 
@@ -37,7 +37,7 @@ ___
 ```
 class Main{
     public static void main(Stirng []args){
-        System.out.println("575913813")
+        System.out.println("Alikhan Bolat")
     }
 }
 ```
@@ -50,7 +50,7 @@ class Main{
 ```
 class Main{
     public static void main(Stirng []args){
-        System.out.println("575913813")
+        System.out.println("Alikhan Bolat")
     }
 }
 ```
