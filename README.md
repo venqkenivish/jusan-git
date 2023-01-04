@@ -1,5 +1,6 @@
 # stepik-id-printer (h1)
 
+
 Это проект для вывода моего персональногио идентивикатора на *образовательной платформе [`stepik.org`](https://stepik.org/)*
 
 <br>
@@ -19,7 +20,7 @@ ___
 
  ___
 
- > `bash ./script.sh`
+ ```bash ./script.sh```
 
 <br>
 
@@ -30,6 +31,44 @@ ___
 Данный проект можно портировать на другие языки программирования.  
 <br>
 На Java
+ 
+<br>
 
->`class Main {`<br>`public static void main(String[] args) {`<br>`System.out println("575913813");`<br>`}`<br>`}`
+```
+class Main{
+    public static void main(Stirng []args){
+        System.out.println("575913813")
+    }
+}
+```
 
+<br>
+На C++
+
+<br>
+
+```
+class Main{
+    public static void main(Stirng []args){
+        System.out.println("575913813")
+    }
+}
+```
+
+<br>
+
+> :bulb: Попробуйте реализовать на Python, Go 
+и JavaScript
+
+## Контакты разрабатчика (h2)
+
+___
+
+Ниже найдете список ссылок для связи с автором.
+
+|Платформа|Ссылка |Отвечу за|
+|:--------:|:------:|:--------:|
+|Почта    |[Ссылка](mailto:alikhan.bolat.kz)| 24часа  |
+|LinkedIn |[Ссылка](https://www.linkedin.com/in/alikhan-bolat-018619259/)| 48часа  |
+|WhatsApp |[Ссылка](http://wa.me/77002854132)| 4часа   |
+|Telegram |[Ссылка](https://tlgg.ru/venqkenivish)| 12часа  |
